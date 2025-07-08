@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Lyre
+# 👋 Hi there, I'm Luca
 
 Welcome to my GitHub profile!
 
