@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi there, I'm Lyre
 
-<!--
-**aciluca/aciluca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 📚 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently studying in a post-diploma **Data Analyst** program, where I'm building strong foundations in statistics, machine learning, and data processing. I'm especially passionate about applying data science in meaningful contexts—such as **healthcare**, **biostatistics**, and **process optimization**.
+
+## 💡 Interests
+
+- 📊 Data Science & Machine Learning  
+- 🖼️ Data Visualization & Storytelling  
+- 🌿 Exploring Nature & the Outdoors
+- 📷 Photography and Filmmaking
+
+## 🛠️ Projects & Skills
+
+I enjoy working with:
+- Python (NumPy, Pandas, Matplotlib, scikit-learn, TensorFlow)
+- SQL (MySQL, PostgreSQL)
+- Docker & Virtual Environments
+- Data Visualization
+
+## 📸 Photography
+
+Outside of tech, I'm a self-taught **photographer** with a passion for **motorsports**, **landscape** and **street**. I’m building my portfolio on track and in the field, one shot at a time.
+
+## 🚑 Volunteering
+
+I'm a volunteer **emergency responder** with *Croce Bianca*, where I serve my community with dedication and empathy. It's a role that has shaped me both personally and professionally.
+
+## 🌄 Life Balance
+
+I find energy and peace by spending time in **nature**, whether it's hiking in the mountains or just enjoying a quiet moment outdoors. It helps me recharge and stay focused in everything I do.
+
+## 🤝 Let’s Connect
+
+I’m always open to collaborations, ideas, or just a good chat about data, photography, or life on the road 🚑📷🌲.
+[LinkedIn](https://www.linkedin.com/in/luca-acerbi/)
+[Instagram](https://www.instagram.com/aci.visual/)
+
+Thanks for stopping by!
+username=aciluca&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
