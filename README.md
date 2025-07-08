@@ -6,9 +6,9 @@ Welcome to my GitHub profile!
 
 ## 📚 About Me
 
-I'm currently enrolled in a post-diploma **Data Analyst** program, where I'm deepening my knowledge of data science — from statistics and data wrangling to machine learning and predictive modeling. This path is helping me build a solid technical foundation while also learning how to approach real-world problems with a data-driven mindset. 
+I'm currently enrolled in a post-diploma **Data Analyst** program, where I'm deepening my knowledge of data science, from statistics and data wrangling to machine learning and predictive modeling. This path is helping me build a solid technical foundation while also learning how to approach real-world problems with a data-driven mindset. 
 
-What fascinates me the most is the potential of data science to create real impact — whether it's improving healthcare systems through **biostatistics**, enhancing safety in complex environments like **nuclear energy**, or driving smarter decisions through **process optimization**. I'm motivated by the idea of turning raw data into meaningful insights that help people and organizations make better choices.
+What fascinates me the most is the potential of data science to create real impact, whether it's improving healthcare systems through **biostatistics**, enhancing safety in complex environments like **nuclear energy**, or driving smarter decisions through **process optimization**. I'm motivated by the idea of turning raw data into meaningful insights that help people and organizations make better choices.
 
 ## 💡 Interests
 
@@ -27,7 +27,7 @@ I enjoy working with:
 
 ## 📸 Photography
 
-Outside of tech, I'm a self-taught **photographer** with a passion for **motorsports**, **landscapes**, and **street photography**. I’m building my portfolio on track and in the field — one shot at a time.
+Outside of tech, I'm a self-taught **photographer** with a passion for **motorsports**, **landscapes**, and **street photography**. I’m building my portfolio on track and in the field, one shot at a time.
 
 ## 🚑 Volunteering
 
