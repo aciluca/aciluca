@@ -13,7 +13,7 @@ What fascinates me the most is the potential of data science to create real impa
 ## 💡 Interests
 
 - 📊 Data Science & Machine Learning  
-- 🖼️ Data Visualization & Storytelling  
+- 🖼️ Data Visualization 
 - 🌿 Exploring Nature & the Outdoors  
 - 📷 Photography and Filmmaking
 
