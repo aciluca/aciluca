@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Luca
+# 👋 Hi there!!
 
 **`Data Enthusiast & Field Operative (Data Scientist / Photographer / First Responder)`**
 
