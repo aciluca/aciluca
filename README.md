@@ -40,7 +40,7 @@ I find energy and peace by spending time in **nature**, whether it's hiking in t
 
 I’m always open to collaborations, ideas, or just a good chat about data, photography, or life on the road 🚑📷🌲.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luca-acerbi/)   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luca-acerbi/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aci.visuals/)
 
 
