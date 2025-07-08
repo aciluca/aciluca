@@ -4,7 +4,10 @@ Welcome to my GitHub profile!
 
 ## 📚 About Me
 
-I'm currently studying in a post-diploma **Data Analyst** program, where I'm building strong foundations in statistics, machine learning, and data processing. I'm especially passionate about applying data science in meaningful contexts—such as **healthcare**, **biostatistics**, and **process optimization**.
+I'm currently enrolled in a post-diploma **Data Analyst** program, where I'm deepening my knowledge of data science, from statistics and data wrangling to machine learning and predictive modeling. This path is allowing me to build a solid technical foundation while also learning how to approach real-world problems with a data-driven mindset. 
+
+What fascinates me the most is the potential of data science to create impact — whether it's improving healthcare systems through **biostatistics**, enhancing safety in complex environments like **nuclear energy**, or driving smarter decisions through **process optimization**. I'm motivated by the idea of turning raw data into meaningful insights that can help people and organizations make better choices.
+
 
 ## 💡 Interests
 
