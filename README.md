@@ -40,4 +40,3 @@ I’m always open to collaborations, ideas, or just a good chat about data, phot
 [Instagram](https://www.instagram.com/aci.visual/)
 
 Thanks for stopping by!
-username=aciluca&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
