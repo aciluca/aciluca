@@ -1,5 +1,6 @@
 # 👋 Hi there, I'm Luca
 
+**`Digital Craftman (Data Scientist/Photographer/First Responder)`**
 Welcome to my GitHub profile!
 
 ## 📚 About Me
